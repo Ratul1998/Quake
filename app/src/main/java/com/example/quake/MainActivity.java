@@ -59,6 +59,7 @@ public class MainActivity extends AppCompatActivity {
 //        });
 
     }
+    
    public void updateUI(ArrayList<Earthquake> earthquakes){
        ListView earthquakeListView = (ListView) findViewById(R.id.list);
 
